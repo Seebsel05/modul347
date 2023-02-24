@@ -3,4 +3,4 @@ services:
   todoapp:
     image: seebsel/modul347:v1
     ports:
-     - "3000"
+     - "3000:3000"
